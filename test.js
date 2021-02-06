@@ -1,1 +1,1 @@
-"testMerge2"
+"testConflict"
